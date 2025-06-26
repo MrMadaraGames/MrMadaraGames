@@ -108,5 +108,5 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 <p align="center"> 
   Contador de Visitantes<br>
-  <img src="https://profile-counter.glitch.me/MrMadaraUchiha/count.svg" />
+  <img src="https://profile-counter.glitch.me/MrMadaraGames/count.svg" />
 </p>
