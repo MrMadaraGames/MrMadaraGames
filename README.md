@@ -10,7 +10,7 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 
 <a href="#"><img src="contributions.svg"></a>
 
-## Plataformas de Interseção
+## Plataformas de Interseção:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
 ![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)
@@ -21,7 +21,7 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 ![Rockstar Games](https://img.shields.io/badge/Rockstar%20Games-FCAF17.svg?style=for-the-badge&logo=Rockstar-Games&logoColor=black)
 
-## Video Games
+## Video Games:
 
 [![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=WIKoI_ARnDpo8Ffqv197FNDZMKlyfE8yymXciN5juhtA7sRTxbZA1t6-3ZRVloBnR64LHYgsjR_g417XL0G0puu0glQ1&wa=wsignin1.0)
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
@@ -32,25 +32,25 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
 
-## Certificações
+## Certificações:
 
 - [Grasshopper - (08/04/2022)](./certs)
 - [Grid Garden - (01/09/2023)](./certs)
 - [HackerSec - (??/??/????)](./certs)
 
-## Plataformas de Prototipagem
+## Plataformas de Prototipagem:
 
 ![RaspBerry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## Banco de Dados
+## Banco de Dados:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-## Sistemas Operacionais
+## Sistemas Operacionais:
 
 ![MAC OS](https://img.shields.io/badge/MAC_OS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -64,7 +64,7 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Xubuntu](https://img.shields.io/badge/Xubuntu-A11F6B?style=for-the-badge&logo=xubuntu&logoColor=white)
 
-## Linguagens e Ferramentas
+## Linguagens e Ferramentas:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SpigotMC](https://img.shields.io/badge/SpigotMC-ED8106.svg?style=for-the-badge&logo=SpigotMC&logoColor=white)
