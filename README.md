@@ -114,8 +114,9 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-<p align="center"> 
-  Contador de Visitantes<br>
-  <img src="https://profile-counter.glitch.me/MrMadaraGames/count.svg"/>
+<p align="center">
+  <br><strong>Visitantes do Perfil</strong><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrMadaraGames" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
