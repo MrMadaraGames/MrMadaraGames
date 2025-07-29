@@ -5,7 +5,7 @@
 Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecnologia, apaixonado por aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. No meu tempo livre, contribuo para projetos de código aberto e ajudo a comunidade de desenvolvedores. Sinta-se à vontade para entrar em contato se precisar de ajuda ou quiser colaborar em algum projeto.
 
 <p align="center">
-  <img src="" alt="IMG" width="100%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/641c2b170466977.645e34a7760bf.gif" alt="IMG" width="100%">
 </p>
 
 <div align="center">
@@ -114,9 +114,6 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-
-
-
 
 <p align="center">
   <br><strong>Visitantes do Perfil</strong><br>
