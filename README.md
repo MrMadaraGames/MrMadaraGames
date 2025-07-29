@@ -4,6 +4,10 @@
 
 Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecnologia, apaixonado por aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. No meu tempo livre, contribuo para projetos de código aberto e ajudo a comunidade de desenvolvedores. Sinta-se à vontade para entrar em contato se precisar de ajuda ou quiser colaborar em algum projeto.
 
+<p align="center">
+  <img src="" alt="IMG" width="100%">
+</p>
+
 <div align="center">
   <a href="https://www.youtube.com/@MrMadaraUchiha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
