@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsd_CqcWjR8yGRJXkTCwHpYM4sLu98kWvPeQ3zsJzZlNA_HJeWcWGQNPjqR2VwJSNVk5WsaFull-iwE3dNuVOuGVfGCVkIluEqIH21ZnRo_wvzayHgx6UgyfVMfPQ_eUDFHg0nWZkrZnE/s1600/Chrono+Trigger.gif" alt="IMG" width="100%">
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff93a4&height=120&section=header"/>
 
 # Bem-vindo ao meu perfil no GitHub!
@@ -5,7 +9,7 @@
 Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecnologia, apaixonado por aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. No meu tempo livre, contribuo para projetos de código aberto e ajudo a comunidade de desenvolvedores. Sinta-se à vontade para entrar em contato se precisar de ajuda ou quiser colaborar em algum projeto.
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/641c2b170466977.645e34a7760bf.gif" alt="IMG" width="100%">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="IMG" width="100%">
 </p>
 
 <div align="center">
