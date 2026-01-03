@@ -14,7 +14,7 @@ Olá, sou **Thales Maggot**, mais conhecido como **MrMadara**. Sou um entusiasta
 - 🧠 Estudo contínuo em segurança digital e sistemas Linux  
 - 🛠️ Criação de scripts, ferramentas e automações  
 - 🏗️ Atuação ativa na **[PixelCraft Studio](https://pixelcraft-studio.store/)**, desenvolvendo soluções e serviços para servidores de jogos  
-- 👑 Fundador e desenvolvedor da **[Kingo Network](https://kingo.network/)**, focado em projetos multiplayer e comunidades online  
+- 👑 Fundador e desenvolvedor da **[Kingo Network](https://kingo.network/)**, focado em projetos Minecraft Multiplayer e comunidades online  
 - 🌍 Contribuição com comunidades e projetos open-source  
 
 <a href="https://64.media.tumblr.com/0de549eb9eba42067193caf55528126b/5aa9b581e5b1fb69-c8/s250x250/17e87534166fe7d300d2f70777b26b00d5b23e1e.gif">
@@ -22,29 +22,39 @@ Olá, sou **Thales Maggot**, mais conhecido como **MrMadara**. Sou um entusiasta
 </a>
 
 
+---
 
-## 🌐 Conecte-se comigo
+# 🌐 Conecte-se comigo
+
+
+
+### 🌐 Canais de Stream/videos
 
 <div align="center">
   <a href="https://www.youtube.com/@MrMadaraUchiha">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35"/>
   </a>
-  <a href="https://discord.gg/wJp7Zeghy9">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35"/>
+  <a href="https://www.twitch.tv/MrMadara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35"/>
   </a>
-</div>
+  <a href="https://kick.com/MrMadara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kick&logo=kick&color=53FC18&style=for-the-badge" height="35"/>
+  </a>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMadaraGames&show_icons=true&count_private=true&hide_border=true&title_color=ff93a4&icon_color=ff93a4&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraGames&layout=compact&hide_border=true&title_color=ff93a4&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
+### 👑 Comunidades no Discord
+<a href="https://discord.gg/wJp7Zeghy9">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&style=for-the-badge" height="35"/>
+</a>
+<a href="https://discord.com/invite/S9bDRqmtKp">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35"/>
+</a>
+<a href="https://discord.gg/KRE8Cr5NBY">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=404EED&style=for-the-badge" height="35"/>
+</a>
 
 ---
 
